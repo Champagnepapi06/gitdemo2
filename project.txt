@@ -1,0 +1,8 @@
+ Iwant to create a business store app for my mom to help her manage and grow her small business more efficiently. The app will allow her to showcase her products, track inventory, take orders, and communicate with customers—all from her phone. It will have a simple and user-friendly interface tailored to her needs, so she won’t feel overwhelmed by complicated features. With options for digital payments, order history, and promotional tools, the app will not only streamline her daily operations but also help her reach more customers online. This project is my way of supporting her hard work and making her business more successful.
+ I want to build a financial aid and advice app designed to help people manage their money more wisely and access helpful financial resources. The app will feature budgeting tools, savings goal trackers, debt management advice, and personalized financial tips based on the user’s income and spending habits. It will also include a section where users can find information about scholarships, grants, and government aid programs they may qualify for. With a clean and intuitive interface, users will be able to navigate the app easily, track their financial progress, and receive daily insights to build healthier money habits. My goal is to empower individuals—especially students and low-income families—to make informed financial decisions and improve their long-term financial well-being.
+
+
+
+
+
+
